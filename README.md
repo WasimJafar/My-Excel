@@ -1,1 +1,2 @@
-# My-Excel
+# Excel-Clone
+A desktop application using Electron
